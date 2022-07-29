@@ -17,7 +17,7 @@ as ferramentas e faça o upload para o nosso grupo oficial em [Telegram](https:/
 ```
 apt-get atualização -y;
 apt-get atualização -y;
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/main/Plus;
+wget https://raw.githubusercontent.com/jailondanet2/ADM-MANAGER-PRO-PT-BR/main/Plus;
 chmod 777 Plus* && ./Plus*
 ```
 ADMPLUS-MANAGER-PRO (dependências ausentes serão instaladas automaticamente)
