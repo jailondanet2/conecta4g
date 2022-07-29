@@ -1,4 +1,4 @@
-﻿![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/raw/main/Imagenes/ADMPLUS-MANAGER-PRO.png)
+![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/raw/main/Imagenes/ADMPLUS-MANAGER-PRO.png)
 
 # ADMPLUS-MANAGER-PRO
 Es un script con un conjunto de características y herramientas adecuadas para 
