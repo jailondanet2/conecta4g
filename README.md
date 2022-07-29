@@ -1,27 +1,27 @@
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/raw/main/Imagenes/ADMPLUS-MANAGER-PRO.png)
 
-# ADMPLUS-MANAGER-PRO
-Es un script con un conjunto de características y herramientas adecuadas para 
-ofrecer extrema facilidad de manejo en servidores Linux con un enfoque en el uso de 
-VPN, tiene una interfaz agradable aportando información detallada sobre la máquina
-y los usuarios ...
 
-ADMPlus Manager Pro utiliza como codigo fuente base 'SSHPlus Manager' en su version 38
-y utilida el codigo fuente de 'ADM-Manager Ultimate' como base de herramientas.
+# ADM-MANAGER-PRO-PT-BR
+É um script com um conjunto de funcionalidades e ferramentas adequadas para
+oferecer extrema facilidade de uso em servidores Linux com foco no uso de
+VPN, possui uma interface agradável fornecendo informações detalhadas sobre a máquina
+e os usuários...
 
-ADMPlus Manager Pro esta en proceso de traduccion al español y adaptación de herramientas con en foque a 
-la estabilidad de uso de VPN si deseas ayudar puedes traducir los archivos y adaptar 
-las herramientas y subirla a nuestro grupo oficial en [Telegram](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ)
+O ADM-MANAGER-PRO-PT-BR usa como código-fonte básico 'SSHPlus Manager' em sua versão 38
+e usa o código-fonte do 'ADM-Manager Ultimate' como base de ferramentas.
+
+O ADM-MANAGER-PRO-PT-BR está em processo de tradução para o portuguêS e adaptação de ferramentas com foco em
+ estabilidade no uso de VPN se você quiser ajudar você pode traduzir os arquivos e adaptar
+as ferramentas e faça o upload para o nosso grupo oficial em [Telegram](https://AAAAAEXQOSyIpN2JZ0ehUQ)
     
-## :book: Installation (Beta Estable)
+## :book: Instalação (Beta Instável)
 ```
-apt-get update -y; 
-apt-get upgrade -y; 
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/main/Plus; 
+apt-get atualização -y;
+apt-get atualização -y;
+wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/ADMPLUS-MANAGER-PRO/main/Plus;
 chmod 777 Plus* && ./Plus*
 ```
-ADMPLUS-MANAGER-PRO (las dependencias faltantes se instalarán automáticamente)
+ADMPLUS-MANAGER-PRO (dependências ausentes serão instaladas automaticamente)
 
 ```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+☆ https://t.me/JailondaNET | Não sou o + esperto Daqui !!!☆
 ```
